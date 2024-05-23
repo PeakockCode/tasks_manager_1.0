@@ -2,5 +2,5 @@ This is a simple Tasks Manager application built using Python's Tkinter and Cust
 
 Dependencies:
 
-Python 3.x
-customtkinter: A custom module for enhancing the appearance of Tkinter widgets.
+- Python 3.x
+- customtkinter: A custom module for enhancing the appearance of Tkinter widgets.
